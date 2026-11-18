@@ -1,0 +1,8 @@
+{ "departments": [
+  { "id": "aids", "name": "AI and Data Science", "head": "Dr. A. Kulkarni", "intake": 120,
+    "courses": [ { "name": "Machine Learning", "credits": 3 }, { "name": "Web Technology I", "credits": 3 } ] },
+  { "id": "comp", "name": "Computer Engineering", "head": "Dr. R. Deshmukh", "intake": 180,
+    "courses": [ { "name": "Computer Networks", "credits": 3 }, { "name": "Operating Systems", "credits": 3 } ] },
+  { "id": "mech", "name": "Mechanical Engineering", "head": "Dr. P. Shinde", "intake": 60,
+    "courses": [ { "name": "Heat Transfer", "credits": 3 }, { "name": "Machine Design", "credits": 3 } ] }
+] }

@@ -1,0 +1,6 @@
+{ "faculty": [
+  { "name": " Dr. Advik kale", "designation": "Professor and Head, AI&DS", "qualification": "Ph.D. (Computer Science)", "email": "akale@example.com" },
+  { "name": "Prof. laxman desai", "designation": "Assistant Professor, AI&DS", "qualification": "M.Tech (Computer)", "email": "laxman@example.com" },
+  { "name": "Dr. Soham puri", "designation": "Professor and Head, Computer", "qualification": "Ph.D. (Computer Engg.)", "email": "deshmukh@example.com" },
+  { "name": "Dr. Sandip Patil", "designation": "Professor , Computer", "qualification": "Ph.D. (Computer Engg.)", "email": "spatil@example.com" }
+] }
